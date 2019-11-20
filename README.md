@@ -1,4 +1,4 @@
-Applied K-mean Clustering using apache spark in Pyhton
+Applied K-mean Clustering using apache spark for segmentation in Pyhton.
 Skin Segmentation plays an important role in many computer vision applications. 
 The aim of skin segmentation is to isolate skin regions in unconstrained input images. 
 In this project, a skin color segmentation approach by texture feature extraction and k-meaning clustering is proposed.
